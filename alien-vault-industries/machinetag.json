@@ -1,0 +1,94 @@
+{
+    "namespace": "alien-vault-industries",
+    "description": "Industries from AlienVault OTX as in https://otx.alienvault.com/browse/industries",
+    "version": 1,
+    "predicates": [
+        {
+            "value": "industries",
+            "expanded": "Industries"
+        }
+    ],
+    "values": [
+        {
+            "predicate": "industries",
+            "entry": [
+                {
+                    "value": "aerospace",
+                    "expanded": "Aerospace"
+                },
+                {
+                    "value": "agriculture",
+                    "expanded": "Agriculture"
+                },
+                {
+                    "value": "chemical",
+                    "expanded": "Chemical"
+                },
+                {
+                    "value": "construction",
+                    "expanded": "Construction"
+                },
+                {
+                    "value": "defense",
+                    "expanded": "Defense"
+                },
+                {
+                    "value": "education",
+                    "expanded": "Education"
+                },
+                {
+                    "value": "energy",
+                    "expanded": "Energy"
+                },
+                {
+                    "value": "finance",
+                    "expanded": "Finance"
+                },
+                {
+                    "value": "government",
+                    "expanded": "Government"
+                },
+                {
+                    "value": "healthcare",
+                    "expanded": "Healthcare"
+                },
+                {
+                    "value": "hospitality",
+                    "expanded": "Hospitality"
+                },
+                {
+                    "value": "manufacturing",
+                    "expanded": "Manufacturing"
+                },
+                {
+                    "value": "media",
+                    "expanded": "Media"
+                },
+                {
+                    "value": "ngo",
+                    "expanded": "NGO"
+                },
+                {
+                    "value": "retail",
+                    "expanded": "Retail"
+                },
+                {
+                    "value": "semiconductor",
+                    "expanded": "Semiconductor"
+                },
+                {
+                    "value": "technology",
+                    "expanded": "Technology"
+                },
+                {
+                    "value": "telecommunications",
+                    "expanded": "Telecommunications"
+                },
+                {
+                    "value": "transportation",
+                    "expanded": "Transportation"
+                }
+            ]
+        }
+    ]
+}
